@@ -1,0 +1,14 @@
+<%= form_tag creator_create_path do %>
+  <label>Object Name</label><br>
+  <%= text_field_tag :name %>
+  <br><br>
+  <label>String Field</label><br>
+  <%= text_field_tag :attr_1 %><br>
+  <%= text_field_tag :attr_2 %>
+  <br><br>
+  <label>Integer Field</label><br>
+  <%= text_field_tag :int_1 %><br>
+  <%= text_field_tag :int_2 %>
+  <br><br>
+  <%= submit_tag 'Submit' %>
+<% end %>

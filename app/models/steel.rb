@@ -1,0 +1,2 @@
+class Steel < ApplicationRecord
+end

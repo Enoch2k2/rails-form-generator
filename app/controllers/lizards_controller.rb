@@ -1,0 +1,2 @@
+class LizardsController < ApplicationController
+end
