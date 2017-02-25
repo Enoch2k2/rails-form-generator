@@ -1,2 +1,0 @@
-class DragonsController < ApplicationController
-end

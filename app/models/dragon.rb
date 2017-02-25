@@ -1,2 +1,0 @@
-class Dragon < ApplicationRecord
-end

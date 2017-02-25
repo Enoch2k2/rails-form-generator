@@ -1,2 +1,0 @@
-class Lizard < ApplicationRecord
-end

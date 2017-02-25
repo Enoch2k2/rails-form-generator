@@ -1,9 +1,4 @@
 Rails.application.routes.draw do
-  resources :lizards
-  resources :dragons
-  resources :steels
-  resources :stones
-  resources :users
   get 'creator/new'
   root to: 'creator#new'
   post 'creator/create'

@@ -1,2 +1,0 @@
-class StonesController < ApplicationController
-end
